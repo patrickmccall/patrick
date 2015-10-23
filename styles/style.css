@@ -1,0 +1,13 @@
+﻿nav {
+  background-color:lightblue;
+  color:azure;
+  height:5rem;
+  text-align:center;
+}
+header nav a:hover {
+  text-decoration: none;
+  color:black
+}
+body {
+  background-color:lightgray
+}
