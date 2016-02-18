@@ -1,0 +1,15 @@
+﻿* {
+  box-sizing: border-box;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+header div{
+  height:7rem;
+  width:95%;
+  background-image: url("https://farm6.staticflickr.com/5157/14290074030_53936727c9_k.jpg") ;
+  background-color: #cccccc;
+  /*background-size:contain;*/
+  background-clip: content-box;
+  border-radius:5px;
+  
+}
